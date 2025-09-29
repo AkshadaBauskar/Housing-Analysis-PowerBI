@@ -1,0 +1,40 @@
+Metadata File for Housing Data
+
+date: The date when the data was recorded or when the transaction took place.
+
+quarter: The fiscal quarter in which the event occurred (e.g., Q1, Q2, Q3, Q4).
+
+house_id: A unique identifier for each house in the dataset.
+
+house_type: The type of house (e.g., detached, semi-detached, apartment, etc.).
+
+sales_type: The type of sale, such as "new" or "resale" (indicates if the house is newly built or pre-owned).
+
+year_build: The year the house was built.
+
+purchase_price: The price at which the house was purchased.
+
+%_change_between_offer_and_purchase: The percentage change in the price between the offer and the purchase price.
+
+no_rooms: The number of rooms in the house.
+
+sqm: The total area of the house in square meters.
+
+sqm_price: The price per square meter of the house.
+
+address: The street address of the property.
+
+zip_code: The postal code of the property's location.
+
+city: The city where the property is located, which is an urban area and part of a municipality (e.g., Copenhagen, Aarhus).
+
+area: The specific district, neighborhood, or part of the city where the property is located (e.g., Vesterbro in Copenhagen).
+
+region: The broader administrative region of Denmark in which the property is located (e.g., Capital Region of Denmark, Central Denmark).
+
+nom_interest_rate%: The nominal interest rate on a mortgage loan for the house (expressed as a percentage).
+
+dk_ann_infl_rate%: The annual inflation rate in Denmark, as a percentage.
+
+yield_on_mortgage_credit_bonds%: The yield on mortgage credit bonds, expressed as a percentage.
+
